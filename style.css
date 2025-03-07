@@ -1,0 +1,28 @@
+
+body{
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+
+.container{
+   background: rgb(161, 64, 64);
+   padding: 20px;
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+h1{
+    color: rgba(red, pink, yellow);
+    font-family: Arial, sans-serif;
+     font-size: 200;
+     font-style: italic;
+}
